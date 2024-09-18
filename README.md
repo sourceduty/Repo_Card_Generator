@@ -12,6 +12,10 @@
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [GitHub README](https://chatgpt.com/g/g-rA63DaENC-github-readme)
+<br>
+[Awesome GitHub](https://github.com/sourceduty/Awesome_GitHub)
+<br>
+[Commit Summary](https://github.com/sourceduty/Commit_Summary)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
